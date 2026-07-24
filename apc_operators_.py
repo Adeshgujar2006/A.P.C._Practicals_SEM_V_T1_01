@@ -38,6 +38,7 @@ True
 False
 >>> x is not y
 True
+>>> #Membership operators
 >>> x&y
 2
 >>> x|y
